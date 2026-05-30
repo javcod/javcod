@@ -1,46 +1,44 @@
+<div align="center">
+
 # Hi, I'm Prabhuji Mishra 👋
 
-## AI Agent & Automation Developer
+### AI Agent & Automation Developer
 
-I’m a B.Tech Computer Science student focused on building **AI-powered productivity systems, automation workflows, and intelligent full-stack applications**.
+Building AI-powered productivity systems, intelligent workflow automations, and full-stack AI applications.
 
-My current focus is on creating practical AI tools that solve real workflow problems — especially around email automation, smart assistants, AI agents, and workflow orchestration.
+![Profile Views](https://komarev.com/ghpvc/?username=javcod\&style=for-the-badge\&color=blueviolet)
+
+</div>
 
 ---
 
-## 🚀 Current Focus
+## 🚀 About Me
+
+I am a B.Tech Computer Science student focused on building practical AI systems that solve real workflow problems.
+
+My current focus is on **AI Agents, Gmail automation, smart productivity tools, workflow automation, and full-stack AI applications**.
+
+I enjoy building projects that combine:
+
+* AI-powered decision making
+* Workflow automation
+* Clean dashboard UI
+* API integrations
+* Real-world productivity use cases
+
+---
+
+## 🧠 Current Focus
 
 * Building **MailPilot AI** — an AI Automated Gmail Copilot
-* Learning and implementing **AI Agents, LangChain, automation workflows, and n8n**
-* Strengthening full-stack development with **React, Node.js, Express, MongoDB, and API integrations**
-* Improving problem-solving through consistent DSA practice
-* Creating industry-ready projects for AI internship opportunities
+* Learning **AI Agents, LangChain, n8n, and automation workflows**
+* Improving full-stack development using **React, Node.js, Express, and MongoDB**
+* Creating recruiter-ready AI automation projects
+* Practicing DSA with Java
 
 ---
 
-## 🧠 What I’m Building
-
-### MailPilot AI
-
-An AI-powered Gmail Copilot that helps users analyze emails, generate smart replies, manage email history, and improve productivity through automation.
-
-**Key areas:** Gmail API, OAuth, AI analysis, smart replies, MongoDB, React dashboard, automation workflows.
-
-### CyberCare AI
-
-An AI-driven cybersecurity classification system designed to identify and prioritize security-related issues.
-
-**Key areas:** AI classification, cybersecurity, intelligent prioritization, practical threat analysis.
-
-### AI Automation Workflows
-
-A growing collection of workflow automation experiments using AI agents, APIs, and automation platforms.
-
-**Key areas:** n8n, LangChain, API automation, productivity workflows, agentic systems.
-
----
-
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
@@ -77,49 +75,39 @@ A growing collection of workflow automation experiments using AI agents, APIs, a
 
 ## 📌 Featured Projects
 
-### 🔹 MailPilot AI
+### 🚀 MailPilot AI
 
-AI Automated Gmail Copilot for email analysis, smart replies, Gmail draft creation, and productivity workflows.
+AI-powered Gmail Copilot for email analysis, smart replies, Gmail draft creation, and productivity automation.
 
-`React` `Node.js` `Express` `MongoDB` `Gmail API` `OAuth` `AI Automation`
+**Tech:** React, Node.js, Express, MongoDB, Gmail API, OAuth, AI Automation
 
-### 🔹 CyberCare AI
+### 🛡 CyberCare AI
 
-AI-based cybersecurity issue classification and priority detection system.
+AI-driven cybersecurity issue classification and priority detection system.
 
-`AI Classification` `Cybersecurity` `Machine Learning` `Problem Solving`
+**Tech:** Machine Learning, Classification, Cybersecurity, Flask, Python
 
-### 🔹 Agentic AI Lab
+### 🤖 Agentic AI Lab
 
-Experiments and mini-projects around AI agents, LangChain, RAG, memory systems, and workflow automation.
+Experiments around AI agents, LangChain, RAG, memory systems, and workflow automation.
 
-`LangChain` `AI Agents` `RAG` `Automation` `APIs`
+**Tech:** LangChain, AI Agents, APIs, Automation
 
-### 🔹 AI Automation Workflows
+### ⚡ AI Automation Workflows
 
-Collection of practical automation workflows for productivity, email, data handling, and AI-assisted tasks.
+Collection of practical workflow automation experiments for productivity and AI-assisted tasks.
 
-`n8n` `Workflow Automation` `API Integration` `AI Tools`
-
----
-
-## 📊 GitHub Stats
-
-![Prabhuji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=javcod\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javcod\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=javcod\&theme=tokyonight\&hide_border=true)
+**Tech:** n8n, APIs, Workflow Automation, AI Tools
 
 ---
 
 ## 🌱 Currently Learning
 
-* Advanced AI agent workflows
-* LangChain and agentic architecture
-* n8n automation systems
-* Full-stack SaaS-style application development
-* Clean UI/UX for AI productivity tools
+* AI Agent development
+* LangChain workflows
+* n8n automation
+* Full-stack SaaS architecture
+* Gmail API and OAuth systems
 * DSA with Java
 
 ---
@@ -127,25 +115,28 @@ Collection of practical automation workflows for productivity, email, data handl
 ## 🎯 2026 Goals
 
 * Build strong AI automation projects
-* Contribute consistently on GitHub
-* Apply for AI/automation internships
 * Create production-level project documentation
-* Improve open-source presence
-* Build a strong developer brand around AI agents and workflow automation
+* Apply for AI and automation internships
+* Maintain consistent GitHub contributions
+* Build a professional developer brand around AI agents and workflow automation
 
 ---
 
 ## 🤝 Connect With Me
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prabhuji%20Mishra-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prabhuji-mishra-763881329/)
 [![GitHub](https://img.shields.io/badge/GitHub-javcod-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/javcod)
 
----
-
-## 💡 Developer Mindset
-
-> I believe in building practical AI systems that save time, reduce repetitive work, and make digital workflows smarter.
+</div>
 
 ---
+
+<div align="center">
+
+### “Building practical AI systems that save time, reduce repetitive work, and make workflows smarter.”
 
 ⭐ Thanks for visiting my profile!
+
+</div>
