@@ -1,142 +1,80 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Prabhuji Mishra</h1>
 
-# Hi, I'm Prabhuji Mishra 👋
+<h3 align="center">
+AI Agent & Automation Engineer | Building Smart Workflows | B.Tech CSE @ SRMIST
+</h3>
 
-### AI Agent & Automation Developer
-
-Building AI-powered productivity systems, intelligent workflow automations, and full-stack AI applications.
-
-![Profile Views](https://komarev.com/ghpvc/?username=javcod\&style=for-the-badge\&color=blueviolet)
-
-</div>
+<p align="center">
+  <a href="https://github.com/javcod">
+    <img src="https://komarev.com/ghpvc/?username=javcod&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I am a B.Tech Computer Science student focused on building practical AI systems that solve real workflow problems.
+I am a B.Tech Computer Science student focused on building real-world AI automation systems, AI agents, and productivity tools.
 
-My current focus is on **AI Agents, Gmail automation, smart productivity tools, workflow automation, and full-stack AI applications**.
-
-I enjoy building projects that combine:
-
-* AI-powered decision making
-* Workflow automation
-* Clean dashboard UI
-* API integrations
-* Real-world productivity use cases
+Currently, I am working on **MailPilot AI – AI-Powered Gmail Copilot**, an intelligent Gmail assistant that analyzes emails, generates contextual replies, creates Gmail drafts, and helps users manage email workflows more efficiently.
 
 ---
 
 ## 🧠 Current Focus
 
-* Building **MailPilot AI** — an AI Automated Gmail Copilot
-* Learning **AI Agents, LangChain, n8n, and automation workflows**
-* Improving full-stack development using **React, Node.js, Express, and MongoDB**
-* Creating recruiter-ready AI automation projects
-* Practicing DSA with Java
+- Building AI agents and automation workflows  
+- Learning production-ready AI deployment  
+- Exploring LangChain, RAG, vector databases, and multi-agent systems  
+- Improving full-stack project quality with React, Node.js, MongoDB, and APIs  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge\&logo=framer\&logoColor=white)
-
-### Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-### AI & Automation
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,express,mongodb,html,css,tailwind,git,github,vscode" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🔥 Featured Project
 
-### 🚀 MailPilot AI
+### MailPilot AI – AI-Powered Gmail Copilot
 
-AI-powered Gmail Copilot for email analysis, smart replies, Gmail draft creation, and productivity automation.
+An AI-powered Gmail assistant that helps users analyze emails, generate contextual replies, create Gmail drafts, and manage email workflows through a modern dashboard.
 
-**Tech:** React, Node.js, Express, MongoDB, Gmail API, OAuth, AI Automation
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Gmail API, OAuth, REST APIs, AI Models
 
-### 🛡 CyberCare AI
-
-AI-driven cybersecurity issue classification and priority detection system.
-
-**Tech:** Machine Learning, Classification, Cybersecurity, Flask, Python
-
-### 🤖 Agentic AI Lab
-
-Experiments around AI agents, LangChain, RAG, memory systems, and workflow automation.
-
-**Tech:** LangChain, AI Agents, APIs, Automation
-
-### ⚡ AI Automation Workflows
-
-Collection of practical workflow automation experiments for productivity and AI-assisted tasks.
-
-**Tech:** n8n, APIs, Workflow Automation, AI Tools
+🔗 Repository: [MailPilot AI](https://github.com/javcod/mailpilot-ai)
 
 ---
 
-## 🌱 Currently Learning
+## 📌 Projects
 
-* AI Agent development
-* LangChain workflows
-* n8n automation
-* Full-stack SaaS architecture
-* Gmail API and OAuth systems
-* DSA with Java
-
----
-
-## 🎯 2026 Goals
-
-* Build strong AI automation projects
-* Create production-level project documentation
-* Apply for AI and automation internships
-* Maintain consistent GitHub contributions
-* Build a professional developer brand around AI agents and workflow automation
+| Project | Description | Tech |
+|---|---|---|
+| **MailPilot AI** | AI-powered Gmail Copilot for email analysis, reply generation, and Gmail draft creation | React, Node.js, MongoDB, Gmail API |
+| **CyberCare** | Cyber complaint management system with AI-based complaint prioritization | Flask, Python, scikit-learn |
+| **AI Automation Workflows** | Experiments with AI agents, APIs, and workflow automation | AI Tools, APIs, Automation |
 
 ---
 
-## 🤝 Connect With Me
+## 📊 GitHub Stats
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prabhuji%20Mishra-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prabhuji-mishra-763881329/)
-[![GitHub](https://img.shields.io/badge/GitHub-javcod-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/javcod)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=javcod&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javcod&theme=tokyonight" height="170" />
+</p>
 
 ---
 
-<div align="center">
+## 🧩 3D Contribution Graph
 
-### “Building practical AI systems that save time, reduce repetitive work, and make workflows smarter.”
+![](./profile-3d-contrib/profile-night-view.svg)
 
-⭐ Thanks for visiting my profile!
+---
 
-</div>
+## 🌱 Learning Journey
+
+```txt
+AI Agents → Automation Workflows → Real-World Projects → Internship Ready
