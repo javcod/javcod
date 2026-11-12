@@ -1,81 +1,32 @@
-<h1 align="center">Hi 👋, I'm Prabhuji Mishra</h1>
+# Prabhuji Mishra
 
-<h3 align="center">
-AI Agent & Automation Engineer | Building Smart Workflows | B.Tech CSE @ SRMIST
-</h3>
+**Software Engineering Student · Backend Development (Java, Python) · B.Tech CSE, SRMIST '28**
 
-<p align="center">
-  <a href="https://github.com/javcod">
-    <img src="https://komarev.com/ghpvc/?username=javcod&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+I build backend-focused web applications and practise data structures and algorithms in Java. My projects are deployed, tested, and documented. I am currently looking for SDE internship opportunities.
 
----
+## Projects
 
-## 🚀 About Me
+**[LumaJewels AI](https://github.com/javcod/luma-jewels-ai)** · [Live demo](https://luma-jewels-ai.vercel.app)
+AI shopping assistant for a jewellery store, built on a tool-calling agent with grounded responses to prevent hallucinated product details. Includes a provider abstraction layer for swapping LLM backends and a Pytest suite of 119 tests.
+`Python` `FastAPI` `React` `Pytest` `Vercel` `Render`
 
-I am a B.Tech Computer Science student focused on building real-world AI automation systems, AI agents, and productivity tools.
+**[MailPilot AI](https://github.com/javcod/mailpilot-ai)**
+Gmail assistant that analyses emails, generates contextual replies, and creates drafts directly in the user's inbox through Gmail OAuth 2.0.
+`React` `Node.js` `Express` `MongoDB` `Gmail API`
 
-Currently, I am working on **MailPilot AI – AI-Powered Gmail Copilot**, an intelligent Gmail assistant that analyzes emails, generates contextual replies, creates Gmail drafts, and helps users manage email workflows more efficiently.
+**[CyberCare](https://github.com/javcod/CyberCare)**
+Cyber-complaint management platform with automated priority triage: a weighted keyword-scoring engine ranks incoming complaints by severity so urgent cases surface first.
+`Python` `Flask`
 
----
+## Tech
 
-## 🧠 Current Focus
+**Primary:** Java
+**Used in projects:** Python, JavaScript, FastAPI, Flask, React, Node.js, Express, MongoDB, Pytest, Git
 
-- Building AI agents and automation workflows  
-- Learning production-ready AI deployment  
-- Exploring LangChain, RAG, vector databases, and multi-agent systems  
-- Improving full-stack project quality with React, Node.js, MongoDB, and APIs  
+## Currently
 
----
+Working through data structures and algorithms in Java.
 
-## 🛠️ Tech Stack
+## Contact
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,express,mongodb,html,css,tailwind,git,github,vscode" />
-</p>
-
----
-
-## 🔥 Featured Project
-
-### MailPilot AI – AI-Powered Gmail Copilot
-
-An AI-powered Gmail assistant that helps users analyze emails, generate contextual replies, create Gmail drafts, and manage email workflows through a modern dashboard.
-
-**Tech Stack:** React, Node.js, Express.js, MongoDB, Gmail API, OAuth, REST APIs, AI Models
-
-🔗 Repository: [MailPilot AI](https://github.com/javcod/mailpilot-ai)
-
----
-
-## 📌 Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| **MailPilot AI** | AI-powered Gmail Copilot for email analysis, reply generation, and Gmail draft creation | React, Node.js, MongoDB, Gmail API |
-| **CyberCare** | Cyber complaint management system with AI-based complaint prioritization | Flask, Python, scikit-learn |
-| **AI Automation Workflows** | Experiments with AI agents, APIs, and workflow automation | AI Tools, APIs, Automation |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javcod&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javcod&theme=tokyonight" height="170" />
-</p>
-
----
-
-## 🧩 3D Contribution Graph
-
-![](./profile-3d-contrib/profile-night-view.svg)
-
----
-
-
-## 🌱 Learning Journey
-
-```txt
-AI Agents → Automation Workflows → Real-World Projects → Internship Ready
+[LinkedIn](https://www.linkedin.com/in/prabhuji-mishra-763881329/) · your-email@example.com
